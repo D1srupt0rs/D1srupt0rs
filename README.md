@@ -1,4 +1,4 @@
-# Lukas Introvic
+# Lukas Introvic @ D1srupt0rs
 
 **Full Stack Developer · Product Engineer · Solana / Web3**
 
